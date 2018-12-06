@@ -1,6 +1,8 @@
 # simple_looper
 
-PD simple looper - bass + drum
+android app: PD simple looper - bass + drum
+
+[read the article at medium](https://medium.com/@jaco_37457/flutter-lets-make-some-noise-part-iii-b891f2dbbd99)
 
 ## Getting Started
 
@@ -14,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+this app has a pd-for-android library dependency:
+
+[pd-for-android repository](https://github.com/libpd/pd-for-android)
+
+follow instructions to compile and put .aar file obtained in android/app/libs
